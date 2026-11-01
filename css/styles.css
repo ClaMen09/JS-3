@@ -1,0 +1,12 @@
+.bandiera{
+    height: 100px;
+}
+
+body {
+    background-color: white;
+}
+
+.dark-mode {
+    background-color: black; 
+    color: white;
+}
